@@ -13,10 +13,11 @@ sections:
       label: New Website
       elementId: hero-badge-1
     title: 'The quick, brown fox jumps over a lazy dog'
-    text: >
+    text: >+
       A group of local fisherman, working to deliver sustainable fish to your
       table. Each fish you buy, helps support fishing regulations and laws, to
-      help sustain a better future for our waters, our food, and our globe. 2
+      help sustain a better future for our waters, our food, and our globe. 1
+
     actions:
       - type: Button
         label: Get Started
