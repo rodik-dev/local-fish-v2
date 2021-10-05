@@ -6,6 +6,16 @@
         "case": "lowercase"
 
     },
-    "h2": {},
-    "h3": {}
+    "h2": {
+        "style": "Bold",
+        "size": 24,
+        "lineHeight": 24,
+        "case": "lowercase"
+    },
+    "h3": {
+        "style": "Bold",
+        "size": 24,
+        "lineHeight": 24,
+        "case": "lowercase"
+    }
 }
