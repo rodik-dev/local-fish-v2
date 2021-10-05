@@ -8,9 +8,5 @@
     "h2": {
         "style": "Bold",
         "size": 18
-    },
-    "h3": {
-        "style": "Regular",
-        "size": 14
     }
 }
