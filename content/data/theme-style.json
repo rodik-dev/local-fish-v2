@@ -13,7 +13,7 @@
         "case": "lowercase"
     },
     "h3": {
-        "style": "Bold",
+        "style": "Regular",
         "size": 24,
         "lineHeight": 24,
         "case": "lowercase"
