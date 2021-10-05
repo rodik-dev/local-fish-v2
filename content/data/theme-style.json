@@ -2,7 +2,8 @@
     "h1": {
         "style": "Bold",
         "size": 24,
-        "lineHeight": 24
+        "lineHeight": 24,
+        "case": 
 
     },
     "h2": {},
