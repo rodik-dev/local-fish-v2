@@ -9,7 +9,7 @@
     "h2": {
         "style": "Bold",
         "size": 18,
-        "lineHeight": 24,
+        "lineHeight": 18,
         "case": "lowercase"
     },
     "h3": {
