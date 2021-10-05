@@ -6,6 +6,18 @@ fields:
   - type: object
     name: h1
     label: H1
+    group: Text styles
+    fields:
+      - type: string
+        name: style
+        label: style
+      - type: number
+        name: size
+        label: Size
+  - type: object
+    name: h2
+    label: H2
+    group: Text styles
     fields:
       - type: string
         name: style
