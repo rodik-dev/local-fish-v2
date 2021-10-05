@@ -1,0 +1,15 @@
+type: data
+name: ThemeStyle
+label: Theme Style
+file: theme-style.json
+fields:
+  - type: object
+    name: h1
+    label: H1
+    fields:
+      - type: string
+        name: style
+        label: style
+      - type: number
+        name: size
+        label: Size
