@@ -15,7 +15,7 @@
     "h3": {
         "style": "Regular",
         "size": 14,
-        "lineHeight": 24,
+        "lineHeight": 14,
         "case": "lowercase"
     }
 }
