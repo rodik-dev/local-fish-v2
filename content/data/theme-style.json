@@ -3,7 +3,7 @@
         "style": "Bold",
         "size": 24,
         "lineHeight": 24,
-        "case": 
+        "case": "lowercase"
 
     },
     "h2": {},
