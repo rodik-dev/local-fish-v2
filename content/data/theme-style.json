@@ -2,20 +2,14 @@
     "h1": {
         "style": "Bold",
         "size": 24,
-        "lineHeight": 24,
-        "case": "lowercase"
 
     },
     "h2": {
         "style": "Bold",
-        "size": 18,
-        "lineHeight": 18,
-        "case": "lowercase"
+        "size": 18
     },
     "h3": {
         "style": "Regular",
-        "size": 14,
-        "lineHeight": 14,
-        "case": "lowercase"
+        "size": 14
     }
 }
